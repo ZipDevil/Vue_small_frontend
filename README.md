@@ -1,7 +1,6 @@
-# tiny vue 3 template
+# tiny vue 3 template for small site
 
-Every time I start a Vue project, I get confused and waste 15 minutes reading
-the documentation and remembering how to set up Vue.
+This a simple template based on Julia Evans' `tiny vue 3 template` without the fuzz of setting up Vue environment.
 
 So this is a tiny template I made for myself so that I can avoid that next
 time. I don't use a build process, instead it uses the CDN version of Vue and a single HTML / JS file.
